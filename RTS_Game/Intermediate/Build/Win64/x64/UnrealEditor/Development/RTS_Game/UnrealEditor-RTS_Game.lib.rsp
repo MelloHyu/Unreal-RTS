@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RTS_Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Work\Github\Unreal-RTS\RTS_Game\Intermediate\Build\Win64\x64\RTS_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Work\Github\Unreal-RTS\RTS_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTS_Game\RTS_Game.cpp.obj"
+"D:\Work\Github\Unreal-RTS\RTS_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTS_Game\Default.rc2.res"
+/OUT:"D:\Work\Github\Unreal-RTS\RTS_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RTS_Game\UnrealEditor-RTS_Game.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\github\\unreal-rts\\rts_game\\source\\rts_game\\rts_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\github\\unreal-rts\\rts_game\\intermediate\\build\\win64\\x64\\rts_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\github\\unreal-rts\\rts_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rts_game\\definitions.rts_game.h",
+            "d:\\work\\github\\unreal-rts\\rts_game\\source\\rts_game\\rts_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

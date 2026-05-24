@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Work\\Github\\Unreal-RTS\\RTS_Game\\Source\\RTS_Game\\RTS_Game.Build.cs",
+		"D:\\Work\\Github\\Unreal-RTS\\RTS_Game\\Source\\RTS_Game.Target.cs",
+		"D:\\Work\\Github\\Unreal-RTS\\RTS_Game\\Source\\RTS_GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

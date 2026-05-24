@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RTS_Game",
+			"Path": "..\\Source\\RTS_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RTS_GameEditor",
+			"Path": "..\\Source\\RTS_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
